@@ -1,6 +1,6 @@
 cask "severn-planner" do
-  version "0.1.61,67"
-  sha256 "c2764c7d0113f1b280179f1da996d2ae65d7c197b3de9375da50603e017f9876"
+  version "0.1.63,69"
+  sha256 "0d273c664264263bff3caae44b75762661a408669cfb1be56c838946aa7a938f"
 
   url "https://www.severnplanner.com/mac/Severn-Planner-#{version.csv.first}-#{version.csv.second}.dmg"
   name "Severn Planner"
